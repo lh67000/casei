@@ -93,8 +93,12 @@ async function selectMolecule(key, li) {
   document.querySelectorAll("#mol-list li").forEach(el => el.classList.remove("active"));
   if (li) li.classList.add("active");
 
-const f = encodeURIComponent(key);
+  // Nettoyage de la clé pour correspondre exactement aux noms de fichiers minuscules
+  const cleanKey = key.trim().toLowerCase().replace(/\s+/g, '_');
+  const f = encodeURIComponent(cleanKey);
+  
   const m = meta.find(x => x.name_formula === key);
+  // ... le reste de votre code reste identique
 
   const molName = m ? ( m.complete_name + " " + m.formula || key) : key;
   setText("mol_title", molName);
