@@ -1,0 +1,43 @@
+.parent {
+    display: flex;             /* Active le mode flexible */
+    flex-direction: row;       /* Place les éléments côte à côte (par défaut) */
+    justify-content: flex-start; /* Aligne au début */
+    align-items: flex-start;   /* Aligne les éléments par le haut */
+    gap: 30px;                 /* Espace propre entre le tableau et l'image */
+}
+
+.child {
+    /* Vos enfants prennent leur place naturelle sans forcer de retour à la ligne */
+}
+
+.z {
+    color: #3ff;
+    text-align: center;
+}
+
+
+.citation-box {
+    float: right;
+    max-width: 400px; /* Ajustez cette valeur selon la largeur maximale souhaitée */
+    text-align: right; /* Aligne le texte à droite si vous le souhaitez */
+    word-break: break-word; /* Force la casse automatique des mots trop longs ou liens */
+    overflow-wrap: break-word;
+    font-size: 0.9em; /* Optionnel : réduit légèrement la taille du texte */
+    color: #666; /* Optionnel : couleur plus discrète */
+}
+
+
+#rendu {
+    max-height: 700px;      /* Hauteur maximale avant l'apparition du curseur/slider */
+    overflow-y: auto;       /* Active le défilement vertical uniquement si nécessaire */
+   /* border: 1px solid #ccc; /* Optionnel : ajoute un cadre propre autour du tableau */
+}
+
+/* Optionnel mais très pratique : garde l'en-tête du tableau (T [K] et sigma) fixe quand on descend */
+#rendu th {
+    position: sticky;
+    top: 0;
+    background-color: white; /* Adaptez la couleur de fond de l'en-tête selon votre thème */
+    color: black;
+    z-index: 1;
+}

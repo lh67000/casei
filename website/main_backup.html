@@ -1,0 +1,82 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>CSV File upload and Parsing</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link href="main.css" rel="stylesheet">
+				<!-- Papa parse min js -->
+        <script src="https://unpkg.com/papaparse@latest/papaparse.min.js"></script>
+    </head>
+<body>
+<div>
+<span class="citation-box">
+    Read the full notice here : <a href="https://doi.org/10.1016/j.pss.2014.09.005" target="_blank">10.1016/j.pss.2014.09.005</a><br>
+    <strong>Citation :</strong> <br>
+    x, z; sdsdsd
+    <a href="https://doi.org/10.1016/j.pss.2014.09.005" target="_blank">https://doi.org/10.1016/j.pss.2014.09.005</a><br>
+    If you wish to contact me:<br>
+    <a href="mailto:lilian.heydel@ganil.fr">x@z.fr</a>
+  </span>
+</div>
+<h1>Ionisation cross section &sigma; database </h1>
+<!-- <h2 id="titre"></h2> -->
+<div class='parent'>
+<div class='child'><select id="choix"></select></div>
+<div class='child'> Download the whole dataset : <a href="../output2/csv/output.csv" target="_blank" download>[csv]</a><br> 
+                    Download the whole dataset : <a href="../output2/csv/output.csv" target="_blank" download>[csv]</a>
+</select> 
+</div>
+</div>
+<h1>qsdsqdsqd </h1>
+<div class='parent'>
+  <!-- Le tableau passe en premier (ou est placé avant dans le code) -->
+  <div class='child'><div class="z" id="rendu"></div>↓</div>
+  <!-- L'image est placée après, mais ira à droite grâce au CSS -->
+<div class='child'><img class="z" id="structure" alt="" style="height: 700px; display: block;">
+  Download the figure <a id="link-pdf" href="#" target="_blank" download>[pdf]</a> <a id="link-svg" href="#" target="_blank" download>[svg]</a>
+  </div>
+</div>
+
+
+
+<script>
+  const META_CSV = "../output2/csv/a.csv";
+  const DATA_CSV = "../output2/csv/output.csv";
+  const SVG_DIR  = "../output2/svg/";     // adapte à l'emplacement réel de tes SVG
+
+  const load = url => new Promise((ok, ko) =>
+    Papa.parse(url, { download: true, header: true, dynamicTyping: true,
+                      skipEmptyLines: true, complete: r => ok(r.data), error: ko }));
+
+  Promise.all([load(META_CSV), load(DATA_CSV)]).then(([meta, df]) => {
+    const select = document.getElementById("choix");
+    meta.forEach(m => select.add(new Option(m.complete_name + " - " + m.formula, m.name_formula)));
+
+function rendre() {
+  const choice = select.value;
+  const m = meta.find(x => x.name_formula === choice);   // une seule déclaration
+
+    // Image
+    const img = document.getElementById("structure");
+    img.src = SVG_DIR + m.pdf_file;
+
+    // Mise à jour dynamique des liens de téléchargement
+    // (Adaptez les dossiers PDF_DIR et SVG_DIR selon l'emplacement de vos fichiers)
+    const PDF_DIR = "../output2/pdf/"; 
+    document.getElementById("link-pdf").href = PDF_DIR + m.pdf_file.replace('.svg', '.pdf'); // Si le nom de base est le même mais en .pdf
+    document.getElementById("link-svg").href = SVG_DIR + m.pdf_file;
+
+    // Tableau T + colonne choisie
+    let html = "<table border=1><tr><th>T [eV]</th><th>&sigma; [cm<sup>2</sup>]</th></tr>";
+    df.forEach(r => html += "<tr><td>" + r["T"] + "</td><td>" + r[choice] + "</td></tr>");
+    document.getElementById("rendu").innerHTML = html + "</table>";
+}
+
+    select.addEventListener("change", rendre);
+    rendre();
+  });
+</script>
+</body>
+</html>
