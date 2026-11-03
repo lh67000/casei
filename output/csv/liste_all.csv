@@ -1,0 +1,260 @@
+name_formula;complete_name;formula;SMILES;svg_file;pdf_file;csv_meta_file;csv_data_file;converged;nao;spin;pyscf;time_hf_s;time_beb_s;time_total_s;is2D_geom
+Methane_CH4;Methane;CH4;C;methane_ch4.svg;methane_ch4.pdf;metadata/methane_ch4.csv;sigma/methane_ch4.csv;True;105;0;2.14.0;6.8;0.064;13.8;False
+Ethane_C2H6;Ethane;C2H6;CC;ethane_c2h6.svg;ethane_c2h6.pdf;metadata/ethane_c2h6.csv;sigma/ethane_c2h6.csv;True;176;0;2.14.0;15.9;0.082;25.5;False
+Ethylene_C2H4;Ethylene;C2H4;C=C;ethylene_c2h4.svg;ethylene_c2h4.pdf;metadata/ethylene_c2h4.csv;sigma/ethylene_c2h4.csv;True;142;0;2.14.0;8.9;0.134;20.3;False
+Acetylene_C2H2;Acetylene;C2H2;C#C;acetylene_c2h2.svg;acetylene_c2h2.pdf;metadata/acetylene_c2h2.csv;sigma/acetylene_c2h2.csv;True;108;0;2.14.0;4.4;0.113;14.6;False
+Cyanogen_C2N2;Cyanogen;C2N2;C(#N)C#N;cyanogen_c2n2.svg;cyanogen_c2n2.pdf;metadata/cyanogen_c2n2.csv;sigma/cyanogen_c2n2.csv;True;148;0;2.14.0;8.4;0.186;17.6;False
+Propane_C3H8;Propane;C3H8;CCC;propane_c3h8.svg;propane_c3h8.pdf;metadata/propane_c3h8.csv;sigma/propane_c3h8.csv;True;247;0;2.14.0;40.7;0.153;48.8;False
+Propene_C3H6;Propene;C3H6;CC=C;propene_c3h6.svg;propene_c3h6.pdf;metadata/propene_c3h6.csv;sigma/propene_c3h6.csv;True;213;0;2.14.0;31.3;0.046;39.0;False
+Ethyl_cyanide_C3H5N;Ethyl Cyanide;C3H5N;CCC#N;ethyl_cyanide_c3h5n.svg;ethyl_cyanide_c3h5n.pdf;metadata/ethyl_cyanide_c3h5n.csv;sigma/ethyl_cyanide_c3h5n.csv;True;233;0;2.14.0;42.0;0.143;49.5;False
+Propyne_C3H4;Propyne;C3H4;CC#C;propyne_c3h4.svg;propyne_c3h4.pdf;metadata/propyne_c3h4.csv;sigma/propyne_c3h4.csv;True;179;0;2.14.0;25.4;0.049;32.8;False
+Acrylonitrile_C3H3N;Acrylonitrile;C3H3N;C=CC#N;acrylonitrile_c3h3n.svg;acrylonitrile_c3h3n.pdf;metadata/acrylonitrile_c3h3n.csv;sigma/acrylonitrile_c3h3n.csv;True;199;0;2.14.0;31.4;0.095;39.8;False
+Cyanoacetylene_C3HN;Cyanoacetylene;C3HN;C#CC#N;cyanoacetylene_c3hn.svg;cyanoacetylene_c3hn.pdf;metadata/cyanoacetylene_c3hn.csv;sigma/cyanoacetylene_c3hn.csv;True;165;0;2.14.0;12.5;0.074;19.8;False
+2-Methylpropane_C4H10;2-Methylpropane;C4H10;CC(C)C;2-methylpropane_c4h10.svg;2-methylpropane_c4h10.pdf;metadata/2-methylpropane_c4h10.csv;sigma/2-methylpropane_c4h10.csv;True;318;0;2.14.0;123.5;0.298;132.1;False
+Pentane_C5H12;Pentane;C5H12;CCCCC;pentane_c5h12.svg;pentane_c5h12.pdf;metadata/pentane_c5h12.csv;sigma/pentane_c5h12.csv;True;389;0;2.14.0;207.1;0.08;214.8;False
+n-Butane_C4H10;N-Butane;C4H10;CCCC;n-butane_c4h10.svg;n-butane_c4h10.pdf;metadata/n-butane_c4h10.csv;sigma/n-butane_c4h10.csv;True;318;0;2.14.0;117.3;0.205;124.9;False
+1-Butene_C4H8;1-Butene;C4H8;CCC=C;1-butene_c4h8.svg;1-butene_c4h8.pdf;metadata/1-butene_c4h8.csv;sigma/1-butene_c4h8.csv;True;284;0;2.14.0;59.8;0.072;67.3;False
+cis-2-Butene_C4H8;Cis-2-Butene;C4H8;C/C=C\C;cis-2-butene_c4h8.svg;cis-2-butene_c4h8.pdf;metadata/cis-2-butene_c4h8.csv;sigma/cis-2-butene_c4h8.csv;True;284;0;2.14.0;89.4;0.084;97.3;False
+trans-2-Butene_C4H8;Trans-2-Butene;C4H8;C/C=C/C;trans-2-butene_c4h8.svg;trans-2-butene_c4h8.pdf;metadata/trans-2-butene_c4h8.csv;sigma/trans-2-butene_c4h8.csv;True;284;0;2.14.0;59.0;0.062;66.4;False
+1_3-Butadiene_C4H6;1,3-Butadiene;C4H6;C=CC=C;1_3-butadiene_c4h6.svg;1_3-butadiene_c4h6.pdf;metadata/1_3-butadiene_c4h6.csv;sigma/1_3-butadiene_c4h6.csv;True;250;0;2.14.0;66.5;0.071;74.1;False
+Diacetylene_C4H2;Diacetylene;C4H2;C#CC#C;diacetylene_c4h2.svg;diacetylene_c4h2.pdf;metadata/diacetylene_c4h2.csv;sigma/diacetylene_c4h2.csv;True;182;0;2.14.0;26.9;0.051;33.6;False
+Cyclopropane_C3H6;Cyclopropane;C3H6;C1CC1;cyclopropane_c3h6.svg;cyclopropane_c3h6.pdf;metadata/cyclopropane_c3h6.csv;sigma/cyclopropane_c3h6.csv;True;213;0;2.14.0;26.4;0.245;34.2;False
+Isobutylene_C4H8;Isobutylene;C4H8;CC(=C)C;isobutylene_c4h8.svg;isobutylene_c4h8.pdf;metadata/isobutylene_c4h8.csv;sigma/isobutylene_c4h8.csv;True;284;0;2.14.0;91.4;0.065;99.1;False
+1_2-Butadiene_C4H6;1,2-Butadiene;C4H6;CC=C=C;1_2-butadiene_c4h6.svg;1_2-butadiene_c4h6.pdf;metadata/1_2-butadiene_c4h6.csv;sigma/1_2-butadiene_c4h6.csv;True;250;0;2.14.0;69.0;0.174;76.5;False
+1-Butyne_C4H6;1-Butyne;C4H6;CCC#C;1-butyne_c4h6.svg;1-butyne_c4h6.pdf;metadata/1-butyne_c4h6.csv;sigma/1-butyne_c4h6.csv;True;250;0;2.14.0;75.2;0.046;82.4;False
+1-Buten-3-yne_C4H4;1-Buten-3-Yne;C4H4;C=CC#C;1-buten-3-yne_c4h4.svg;1-buten-3-yne_c4h4.pdf;metadata/1-buten-3-yne_c4h4.csv;sigma/1-buten-3-yne_c4h4.csv;True;216;0;2.14.0;39.3;0.089;47.0;False
+1-Pentene_C5H10;1-Pentene;C5H10;CCCC=C;1-pentene_c5h10.svg;1-pentene_c5h10.pdf;metadata/1-pentene_c5h10.csv;sigma/1-pentene_c5h10.csv;True;355;0;2.14.0;162.0;0.126;169.2;False
+2-Pentene_C5H10;2-Pentene;C5H10;CCC=CC;2-pentene_c5h10.svg;2-pentene_c5h10.pdf;metadata/2-pentene_c5h10.csv;sigma/2-pentene_c5h10.csv;True;355;0;2.14.0;168.2;0.126;176.3;False
+Cyclopentane_C5H10;Cyclopentane;C5H10;C1CCCC1;cyclopentane_c5h10.svg;cyclopentane_c5h10.pdf;metadata/cyclopentane_c5h10.csv;sigma/cyclopentane_c5h10.csv;True;355;0;2.14.0;157.2;0.174;165.6;False
+Cyclopentene_C5H8;Cyclopentene;C5H8;C1CC=CC1;cyclopentene_c5h8.svg;cyclopentene_c5h8.pdf;metadata/cyclopentene_c5h8.csv;sigma/cyclopentene_c5h8.csv;True;321;0;2.14.0;132.3;0.17;140.7;False
+Isoprene_C5H8;Isoprene;C5H8;CC(=C)C=C;isoprene_c5h8.svg;isoprene_c5h8.pdf;metadata/isoprene_c5h8.csv;sigma/isoprene_c5h8.csv;True;321;0;2.14.0;138.1;0.078;146.2;False
+1_3-Cyclopentadiene_C5H6;1,3-Cyclopentadiene;C5H6;C1C=CC=C1;1_3-cyclopentadiene_c5h6.svg;1_3-cyclopentadiene_c5h6.pdf;metadata/1_3-cyclopentadiene_c5h6.csv;sigma/1_3-cyclopentadiene_c5h6.csv;True;287;0;2.14.0;112.5;0.232;120.9;False
+2_2-Dimethylbutane_C6H14;2,2-Dimethylbutane;C6H14;CCC(C)(C)C;2_2-dimethylbutane_c6h14.svg;2_2-dimethylbutane_c6h14.pdf;metadata/2_2-dimethylbutane_c6h14.csv;sigma/2_2-dimethylbutane_c6h14.csv;True;460;0;2.14.0;360.8;0.154;369.5;False
+2_3-Dimethylbutane_C6H14;2,3-Dimethylbutane;C6H14;CC(C)C(C)C;2_3-dimethylbutane_c6h14.svg;2_3-dimethylbutane_c6h14.pdf;metadata/2_3-dimethylbutane_c6h14.csv;sigma/2_3-dimethylbutane_c6h14.csv;True;460;0;2.14.0;354.8;0.208;362.9;False
+2-Methylpentane_C6H14;2-Methylpentane;C6H14;CCCC(C)C;2-methylpentane_c6h14.svg;2-methylpentane_c6h14.pdf;metadata/2-methylpentane_c6h14.csv;sigma/2-methylpentane_c6h14.csv;True;460;0;2.14.0;334.7;0.161;342.6;False
+Hexane_C6H14;Hexane;C6H14;CCCCCC;hexane_c6h14.svg;hexane_c6h14.pdf;metadata/hexane_c6h14.csv;sigma/hexane_c6h14.csv;True;460;0;2.14.0;315.6;0.131;323.5;False
+1-Hexene_C6H12;1-Hexene;C6H12;CCCCC=C;1-hexene_c6h12.svg;1-hexene_c6h12.pdf;metadata/1-hexene_c6h12.csv;sigma/1-hexene_c6h12.csv;True;426;0;2.14.0;269.0;0.195;276.4;False
+2-Methyl-1-Pentene_C6H12;2-Methyl-1-Pentene;C6H12;CCCC(=C)C;2-methyl-1-pentene_c6h12.svg;2-methyl-1-pentene_c6h12.pdf;metadata/2-methyl-1-pentene_c6h12.csv;sigma/2-methyl-1-pentene_c6h12.csv;True;426;0;2.14.0;282.7;0.154;291.3;False
+2-Methyl-2-Pentene_C6H12;2-Methyl-2-Pentene;C6H12;CCC=C(C)C;2-methyl-2-pentene_c6h12.svg;2-methyl-2-pentene_c6h12.pdf;metadata/2-methyl-2-pentene_c6h12.csv;sigma/2-methyl-2-pentene_c6h12.csv;True;426;0;2.14.0;286.4;0.113;294.3;False
+3_3-Dimethyl-1-Butene_C6H12;3,3-Dimethyl-1-Butene;C6H12;CC(C)(C)C=C;3_3-dimethyl-1-butene_c6h12.svg;3_3-dimethyl-1-butene_c6h12.pdf;metadata/3_3-dimethyl-1-butene_c6h12.csv;sigma/3_3-dimethyl-1-butene_c6h12.csv;True;426;0;2.14.0;285.1;0.235;293.3;False
+Cis-3-Hexene_C6H12;Cis-3-Hexene;C6H12;CC/C=C\CC;cis-3-hexene_c6h12.svg;cis-3-hexene_c6h12.pdf;metadata/cis-3-hexene_c6h12.csv;sigma/cis-3-hexene_c6h12.csv;True;426;0;2.14.0;277.0;0.085;285.1;False
+4-Methyl-1-Pentene_C6H12;4-Methyl-1-Pentene;C6H12;CC(C)CC=C;4-methyl-1-pentene_c6h12.svg;4-methyl-1-pentene_c6h12.pdf;metadata/4-methyl-1-pentene_c6h12.csv;sigma/4-methyl-1-pentene_c6h12.csv;True;426;0;2.14.0;297.1;0.191;304.9;False
+Cyclohexane_C6H12;Cyclohexane;C6H12;C1CCCCC1;cyclohexane_c6h12.svg;cyclohexane_c6h12.pdf;metadata/cyclohexane_c6h12.csv;sigma/cyclohexane_c6h12.csv;True;426;0;2.14.0;270.7;0.218;279.6;False
+Methylcyclopentane_C6H12;Methylcyclopentane;C6H12;CC1CCCC1;methylcyclopentane_c6h12.svg;methylcyclopentane_c6h12.pdf;metadata/methylcyclopentane_c6h12.csv;sigma/methylcyclopentane_c6h12.csv;True;426;0;2.14.0;295.3;0.097;304.1;False
+Trans-2-Hexene_C6H12;Trans-2-Hexene;C6H12;CCC/C=C/C;trans-2-hexene_c6h12.svg;trans-2-hexene_c6h12.pdf;metadata/trans-2-hexene_c6h12.csv;sigma/trans-2-hexene_c6h12.csv;True;426;0;2.14.0;271.3;0.19;279.0;False
+Cyclohexene_C6H10;Cyclohexene;C6H10;C1CCC=CC1;cyclohexene_c6h10.svg;cyclohexene_c6h10.pdf;metadata/cyclohexene_c6h10.csv;sigma/cyclohexene_c6h10.csv;True;392;0;2.14.0;233.0;0.138;241.2;False
+Bipropargyl_C6H6;Bipropargyl;C6H6;C#CCCC#C;bipropargyl_c6h6.svg;bipropargyl_c6h6.pdf;metadata/bipropargyl_c6h6.csv;sigma/bipropargyl_c6h6.csv;True;324;0;2.14.0;132.9;0.076;140.4;False
+Dimethylbutadiyne_C6H6;Dimethylbutadiyne;C6H6;CC#CC#CC;dimethylbutadiyne_c6h6.svg;dimethylbutadiyne_c6h6.pdf;metadata/dimethylbutadiyne_c6h6.csv;sigma/dimethylbutadiyne_c6h6.csv;True;324;0;2.14.0;105.3;0.296;112.7;False
+Benzene_C6H6;Benzene;C6H6;C1=CC=CC=C1;benzene_c6h6.svg;benzene_c6h6.pdf;metadata/benzene_c6h6.csv;sigma/benzene_c6h6.csv;True;324;0;2.14.0;124.3;0.08;132.9;False
+Silane_H4Si;Silane;H4Si;[SiH4];silane_h4si.svg;silane_h4si.pdf;metadata/silane_h4si.csv;sigma/silane_h4si.csv;True;113;0;2.14.0;7.2;0.051;15.1;False
+Disilane_H6Si2;Disilane;H6Si2;[SiH3][SiH3];disilane_h6si2.svg;disilane_h6si2.pdf;metadata/disilane_h6si2.csv;sigma/disilane_h6si2.csv;True;192;0;2.14.0;23.4;0.032;31.3;False
+Germane_GeH4;Germane;GeH4;[GeH4];germane_geh4.svg;germane_geh4.pdf;metadata/germane_geh4.csv;sigma/germane_geh4.csv;True;113;0;2.14.0;41.4;0.024;43.2;True
+Phosphine_H3P;Phosphine;H3P;P;phosphine_h3p.svg;phosphine_h3p.pdf;metadata/phosphine_h3p.csv;sigma/phosphine_h3p.csv;True;96;0;2.14.0;5.2;0.019;13.8;False
+Arsine_AsH3;Arsine;AsH3;[AsH3];arsine_ash3.svg;arsine_ash3.pdf;metadata/arsine_ash3.csv;sigma/arsine_ash3.csv;True;96;0;2.14.0;33.0;0.061;34.7;True
+Hydrogen_selenide_H2Se;Hydrogen Selenide;H2Se;[SeH2];hydrogen_selenide_h2se.svg;hydrogen_selenide_h2se.pdf;metadata/hydrogen_selenide_h2se.csv;sigma/hydrogen_selenide_h2se.csv;True;79;0;2.14.0;27.1;0.024;28.9;True
+Nitrosyl_chloride_ClNO;Nitrosyl Chloride;ClNO;N(=O)Cl;nitrosyl_chloride_clno.svg;nitrosyl_chloride_clno.pdf;metadata/nitrosyl_chloride_clno.csv;sigma/nitrosyl_chloride_clno.csv;True;122;0;2.14.0;10.8;0.045;19.0;False
+Nitrosyl_fluoride_FNO;Nitrosyl Fluoride;FNO;N(=O)F;nitrosyl_fluoride_fno.svg;nitrosyl_fluoride_fno.pdf;metadata/nitrosyl_fluoride_fno.csv;sigma/nitrosyl_fluoride_fno.csv;True;117;0;2.14.0;10.7;0.082;19.3;False
+Dinitrogen_tetroxide_N2O4;Dinitrogen Tetroxide;N2O4;[N+](=O)([N+](=O)[O-])[O-];dinitrogen_tetroxide_n2o4.svg;dinitrogen_tetroxide_n2o4.pdf;metadata/dinitrogen_tetroxide_n2o4.csv;sigma/dinitrogen_tetroxide_n2o4.csv;True;234;0;2.14.0;45.2;0.111;54.8;False
+Dinitrogen_pentoxide_N2O5;Dinitrogen Pentoxide;N2O5;[N+](=O)([O-])O[N+](=O)[O-];dinitrogen_pentoxide_n2o5.svg;dinitrogen_pentoxide_n2o5.pdf;metadata/dinitrogen_pentoxide_n2o5.csv;sigma/dinitrogen_pentoxide_n2o5.csv;True;274;0;2.14.0;115.7;0.19;123.9;False
+Fluorine_F2;Fluorine;F2;FF;fluorine_f2.svg;fluorine_f2.pdf;metadata/fluorine_f2.csv;sigma/fluorine_f2.csv;True;80;0;2.14.0;17.7;0.038;19.5;True
+Chlorine_Cl2;Chlorine;Cl2;ClCl;chlorine_cl2.svg;chlorine_cl2.pdf;metadata/chlorine_cl2.csv;sigma/chlorine_cl2.csv;True;90;0;2.14.0;5.3;0.051;13.2;False
+Bromine_Br2;Bromine;Br2;BrBr;bromine_br2.svg;bromine_br2.pdf;metadata/bromine_br2.csv;sigma/bromine_br2.csv;True;90;0;2.14.0;5.0;0.039;13.2;False
+Hydrogen_bromide_BrH;Hydrogen Bromide;BrH;Br;hydrogen_bromide_brh.svg;hydrogen_bromide_brh.pdf;metadata/hydrogen_bromide_brh.csv;sigma/hydrogen_bromide_brh.csv;True;62;0;2.14.0;4.3;0.029;12.4;False
+Chloromethane_CH3Cl;Chloromethane;CH3Cl;CCl;chloromethane_ch3cl.svg;chloromethane_ch3cl.pdf;metadata/chloromethane_ch3cl.csv;sigma/chloromethane_ch3cl.csv;True;133;0;2.14.0;9.6;0.074;17.8;False
+Dichloromethane_CH2Cl2;Dichloromethane;CH2Cl2;C(Cl)Cl;dichloromethane_ch2cl2.svg;dichloromethane_ch2cl2.pdf;metadata/dichloromethane_ch2cl2.csv;sigma/dichloromethane_ch2cl2.csv;True;161;0;2.14.0;12.8;0.04;21.1;False
+Chloroform_CHCl3;Chloroform;CHCl3;C(Cl)(Cl)Cl;chloroform_chcl3.svg;chloroform_chcl3.pdf;metadata/chloroform_chcl3.csv;sigma/chloroform_chcl3.csv;True;189;0;2.14.0;29.9;0.264;38.8;False
+Carbon_tetrachloride_CCl4;Carbon Tetrachloride;CCl4;C(Cl)(Cl)(Cl)Cl;carbon_tetrachloride_ccl4.svg;carbon_tetrachloride_ccl4.pdf;metadata/carbon_tetrachloride_ccl4.csv;sigma/carbon_tetrachloride_ccl4.csv;True;217;0;2.14.0;34.8;0.114;44.1;False
+Fluoromethane_CH3F;Fluoromethane;CH3F;CF;fluoromethane_ch3f.svg;fluoromethane_ch3f.pdf;metadata/fluoromethane_ch3f.csv;sigma/fluoromethane_ch3f.csv;True;128;0;2.14.0;9.8;0.034;18.6;False
+Difluoromethane_CH2F2;Difluoromethane;CH2F2;C(F)F;difluoromethane_ch2f2.svg;difluoromethane_ch2f2.pdf;metadata/difluoromethane_ch2f2.csv;sigma/difluoromethane_ch2f2.csv;True;151;0;2.14.0;11.3;0.125;20.3;False
+Fluoroform_CHF3;Fluoroform;CHF3;C(F)(F)F;fluoroform_chf3.svg;fluoroform_chf3.pdf;metadata/fluoroform_chf3.csv;sigma/fluoroform_chf3.csv;True;174;0;2.14.0;25.7;0.089;34.8;False
+Tetrafluoromethane_CF4;Tetrafluoromethane;CF4;C(F)(F)(F)F;tetrafluoromethane_cf4.svg;tetrafluoromethane_cf4.pdf;metadata/tetrafluoromethane_cf4.csv;sigma/tetrafluoromethane_cf4.csv;True;197;0;2.14.0;28.0;0.2;37.2;False
+Bromomethane_CH3Br;Bromomethane;CH3Br;CBr;bromomethane_ch3br.svg;bromomethane_ch3br.pdf;metadata/bromomethane_ch3br.csv;sigma/bromomethane_ch3br.csv;True;133;0;2.14.0;9.7;0.04;18.0;False
+Iodomethane_CH3I;Iodomethane;CH3I;CI;iodomethane_ch3i.svg;iodomethane_ch3i.pdf;metadata/iodomethane_ch3i.csv;sigma/iodomethane_ch3i.csv;True;88;0;2.14.0;10.7;0.195;18.8;False
+Vinyl_chloride_C2H3Cl;Vinyl Chloride;C2H3Cl;C=CCl;vinyl_chloride_c2h3cl.svg;vinyl_chloride_c2h3cl.pdf;metadata/vinyl_chloride_c2h3cl.csv;sigma/vinyl_chloride_c2h3cl.csv;True;170;0;2.14.0;13.4;0.045;21.8;False
+Trichloroethylene_C2HCl3;Trichloroethylene;C2HCl3;C(=C(Cl)Cl)Cl;trichloroethylene_c2hcl3.svg;trichloroethylene_c2hcl3.pdf;metadata/trichloroethylene_c2hcl3.csv;sigma/trichloroethylene_c2hcl3.csv;True;226;0;2.14.0;41.9;0.144;50.6;False
+Tetrachloroethylene_C2Cl4;Tetrachloroethylene;C2Cl4;C(=C(Cl)Cl)(Cl)Cl;tetrachloroethylene_c2cl4.svg;tetrachloroethylene_c2cl4.pdf;metadata/tetrachloroethylene_c2cl4.csv;sigma/tetrachloroethylene_c2cl4.csv;True;254;0;2.14.0;135.7;0.065;145.1;False
+Propadiene_C3H4;Propadiene;C3H4;C=C=C;propadiene_c3h4.svg;propadiene_c3h4.pdf;metadata/propadiene_c3h4.csv;sigma/propadiene_c3h4.csv;True;179;0;2.14.0;188.6;0.103;190.6;True
+1-Pentyne_C5H8;1-Pentyne;C5H8;CCCC#C;1-pentyne_c5h8.svg;1-pentyne_c5h8.pdf;metadata/1-pentyne_c5h8.csv;sigma/1-pentyne_c5h8.csv;True;321;0;2.14.0;144.6;0.134;153.1;False
+2-Pentyne_C5H8;2-Pentyne;C5H8;CCC#CC;2-pentyne_c5h8.svg;2-pentyne_c5h8.pdf;metadata/2-pentyne_c5h8.csv;sigma/2-pentyne_c5h8.csv;True;321;0;2.14.0;131.3;0.147;139.8;False
+Spiro_2.2_pentane_C5H8;Spiro[2.2]Pentane;C5H8;C1CC12CC2;spiro_2.2_pentane_c5h8.svg;spiro_2.2_pentane_c5h8.pdf;metadata/spiro_2.2_pentane_c5h8.csv;sigma/spiro_2.2_pentane_c5h8.csv;True;321;0;2.14.0;127.9;0.08;136.9;False
+Cyclobutane_C4H8;Cyclobutane;C4H8;C1CCC1;cyclobutane_c4h8.svg;cyclobutane_c4h8.pdf;metadata/cyclobutane_c4h8.csv;sigma/cyclobutane_c4h8.csv;True;284;0;2.14.0;83.9;0.101;93.1;False
+Cyclobutene_C4H6;Cyclobutene;C4H6;C1CC=C1;cyclobutene_c4h6.svg;cyclobutene_c4h6.pdf;metadata/cyclobutene_c4h6.csv;sigma/cyclobutene_c4h6.csv;True;250;0;2.14.0;43.5;0.055;52.6;False
+Toluene_C7H8;Toluene;C7H8;CC1=CC=CC=C1;toluene_c7h8.svg;toluene_c7h8.pdf;metadata/toluene_c7h8.csv;sigma/toluene_c7h8.csv;True;395;0;2.14.0;273.7;0.155;282.9;False
+Cycloheptatriene_C7H8;Cycloheptatriene;C7H8;C1C=CC=CC=C1;cycloheptatriene_c7h8.svg;cycloheptatriene_c7h8.pdf;metadata/cycloheptatriene_c7h8.csv;sigma/cycloheptatriene_c7h8.csv;True;395;0;2.14.0;261.0;0.256;270.8;False
+Styrene_C8H8;Styrene;C8H8;C=CC1=CC=CC=C1;styrene_c8h8.svg;styrene_c8h8.pdf;metadata/styrene_c8h8.csv;sigma/styrene_c8h8.csv;True;432;0;2.14.0;379.6;0.108;388.8;False
+o-Xylene_C8H10;O-Xylene;C8H10;CC1=CC=CC=C1C;o-xylene_c8h10.svg;o-xylene_c8h10.pdf;metadata/o-xylene_c8h10.csv;sigma/o-xylene_c8h10.csv;True;466;0;2.14.0;436.3;0.254;445.4;False
+m-Xylene_C8H10;M-Xylene;C8H10;CC1=CC(=CC=C1)C;m-xylene_c8h10.svg;m-xylene_c8h10.pdf;metadata/m-xylene_c8h10.csv;sigma/m-xylene_c8h10.csv;True;466;0;2.14.0;433.1;0.258;442.0;False
+p-Xylene_C8H10;P-Xylene;C8H10;CC1=CC=C(C=C1)C;p-xylene_c8h10.svg;p-xylene_c8h10.pdf;metadata/p-xylene_c8h10.csv;sigma/p-xylene_c8h10.csv;True;466;0;2.14.0;373.8;0.244;383.6;False
+Naphthalene_C10H8;Naphthalene;C10H8;C1=CC=C2C=CC=CC2=C1;naphthalene_c10h8.svg;naphthalene_c10h8.pdf;metadata/naphthalene_c10h8.csv;sigma/naphthalene_c10h8.csv;True;506;0;2.14.0;609.8;0.204;619.4;False
+Propan-2-ol_C3H8O;Propan-2-Ol;C3H8O;CC(C)O;propan-2-ol_c3h8o.svg;propan-2-ol_c3h8o.pdf;metadata/propan-2-ol_c3h8o.csv;sigma/propan-2-ol_c3h8o.csv;True;287;0;2.14.0;99.9;0.106;108.3;False
+1-Propanol_C3H8O;1-Propanol;C3H8O;CCCO;1-propanol_c3h8o.svg;1-propanol_c3h8o.pdf;metadata/1-propanol_c3h8o.csv;sigma/1-propanol_c3h8o.csv;True;287;0;2.14.0;98.3;0.068;107.2;False
+Allyl_alcohol_C3H6O;Allyl Alcohol;C3H6O;C=CCO;allyl_alcohol_c3h6o.svg;allyl_alcohol_c3h6o.pdf;metadata/allyl_alcohol_c3h6o.csv;sigma/allyl_alcohol_c3h6o.csv;True;253;0;2.14.0;47.5;0.213;56.4;False
+Propargyl_alcohol_C3H4O;Propargyl Alcohol;C3H4O;C#CCO;propargyl_alcohol_c3h4o.svg;propargyl_alcohol_c3h4o.pdf;metadata/propargyl_alcohol_c3h4o.csv;sigma/propargyl_alcohol_c3h4o.csv;True;219;0;2.14.0;41.9;0.062;50.8;False
+Isobutanol_C4H10O;Isobutanol;C4H10O;CC(C)CO;isobutanol_c4h10o.svg;isobutanol_c4h10o.pdf;metadata/isobutanol_c4h10o.csv;sigma/isobutanol_c4h10o.csv;True;358;0;2.14.0;179.3;0.199;188.7;False
+1-Butanol_C4H10O;1-Butanol;C4H10O;CCCCO;1-butanol_c4h10o.svg;1-butanol_c4h10o.pdf;metadata/1-butanol_c4h10o.csv;sigma/1-butanol_c4h10o.csv;True;358;0;2.14.0;177.5;0.1;185.7;False
+2-Butanol_C4H10O;2-Butanol;C4H10O;CCC(C)O;2-butanol_c4h10o.svg;2-butanol_c4h10o.pdf;metadata/2-butanol_c4h10o.csv;sigma/2-butanol_c4h10o.csv;True;358;0;2.14.0;180.7;0.184;189.3;False
+tert-Butanol_C4H10O;Tert-Butanol;C4H10O;CC(C)(C)O;tert-butanol_c4h10o.svg;tert-butanol_c4h10o.pdf;metadata/tert-butanol_c4h10o.csv;sigma/tert-butanol_c4h10o.csv;True;358;0;2.14.0;181.4;0.194;190.6;False
+Diacetyl_C4H6O2;Diacetyl;C4H6O2;CC(=O)C(=O)C;diacetyl_c4h6o2.svg;diacetyl_c4h6o2.pdf;metadata/diacetyl_c4h6o2.csv;sigma/diacetyl_c4h6o2.csv;True;330;0;2.14.0;166.2;0.1;175.5;False
+Methyl_ethyl_ketone_C4H8O;Methyl Ethyl Ketone;C4H8O;CCC(=O)C;methyl_ethyl_ketone_c4h8o.svg;methyl_ethyl_ketone_c4h8o.pdf;metadata/methyl_ethyl_ketone_c4h8o.csv;sigma/methyl_ethyl_ketone_c4h8o.csv;True;324;0;2.14.0;147.0;0.301;156.1;False
+Cyclobutanone_C4H6O;Cyclobutanone;C4H6O;C1CC(=O)C1;cyclobutanone_c4h6o.svg;cyclobutanone_c4h6o.pdf;metadata/cyclobutanone_c4h6o.csv;sigma/cyclobutanone_c4h6o.csv;True;290;0;2.14.0;116.0;0.126;125.6;False
+Cyclopentanone_C5H8O;Cyclopentanone;C5H8O;C1CCC(=O)C1;cyclopentanone_c5h8o.svg;cyclopentanone_c5h8o.pdf;metadata/cyclopentanone_c5h8o.csv;sigma/cyclopentanone_c5h8o.csv;True;361;0;2.14.0;200.7;0.185;209.9;False
+Tetrahydrofuran_C4H8O;Tetrahydrofuran;C4H8O;C1CCOC1;tetrahydrofuran_c4h8o.svg;tetrahydrofuran_c4h8o.pdf;metadata/tetrahydrofuran_c4h8o.csv;sigma/tetrahydrofuran_c4h8o.csv;True;324;0;2.14.0;147.3;0.082;156.1;False
+1_4-Dioxane_C4H8O2;1,4-Dioxane;C4H8O2;C1COCCO1;1_4-dioxane_c4h8o2.svg;1_4-dioxane_c4h8o2.pdf;metadata/1_4-dioxane_c4h8o2.csv;sigma/1_4-dioxane_c4h8o2.csv;True;364;0;2.14.0;202.6;0.161;211.6;False
+Propylene_glycol_C3H8O2;Propylene Glycol;C3H8O2;CC(CO)O;propylene_glycol_c3h8o2.svg;propylene_glycol_c3h8o2.pdf;metadata/propylene_glycol_c3h8o2.csv;sigma/propylene_glycol_c3h8o2.csv;True;327;0;2.14.0;140.2;0.175;149.3;False
+Glycerol_C3H8O3;Glycerol;C3H8O3;C(C(CO)O)O;glycerol_c3h8o3.svg;glycerol_c3h8o3.pdf;metadata/glycerol_c3h8o3.csv;sigma/glycerol_c3h8o3.csv;True;367;0;2.14.0;193.2;0.135;201.6;False
+Ethyl_acetate_C4H8O2;Ethyl Acetate;C4H8O2;CCOC(=O)C;ethyl_acetate_c4h8o2.svg;ethyl_acetate_c4h8o2.pdf;metadata/ethyl_acetate_c4h8o2.csv;sigma/ethyl_acetate_c4h8o2.csv;True;364;0;2.14.0;194.3;0.188;202.6;False
+Methyl_propionate_C4H8O2;Methyl Propionate;C4H8O2;CCC(=O)OC;methyl_propionate_c4h8o2.svg;methyl_propionate_c4h8o2.pdf;metadata/methyl_propionate_c4h8o2.csv;sigma/methyl_propionate_c4h8o2.csv;True;364;0;2.14.0;203.9;0.188;213.2;False
+Vinyl_acetate_C4H6O2;Vinyl Acetate;C4H6O2;CC(=O)OC=C;vinyl_acetate_c4h6o2.svg;vinyl_acetate_c4h6o2.pdf;metadata/vinyl_acetate_c4h6o2.csv;sigma/vinyl_acetate_c4h6o2.csv;True;330;0;2.14.0;160.6;0.093;169.2;False
+Dimethylamine_C2H7N;Dimethylamine;C2H7N;CNC;dimethylamine_c2h7n.svg;dimethylamine_c2h7n.pdf;metadata/dimethylamine_c2h7n.csv;sigma/dimethylamine_c2h7n.csv;True;230;0;2.14.0;38.8;0.11;47.9;False
+Trimethylamine_C3H9N;Trimethylamine;C3H9N;CN(C)C;trimethylamine_c3h9n.svg;trimethylamine_c3h9n.pdf;metadata/trimethylamine_c3h9n.csv;sigma/trimethylamine_c3h9n.csv;True;301;0;2.14.0;111.6;0.061;120.6;False
+Propylamine_C3H9N;Propylamine;C3H9N;CCCN;propylamine_c3h9n.svg;propylamine_c3h9n.pdf;metadata/propylamine_c3h9n.csv;sigma/propylamine_c3h9n.csv;True;301;0;2.14.0;116.7;0.163;125.6;False
+Isopropylamine_C3H9N;Isopropylamine;C3H9N;CC(C)N;isopropylamine_c3h9n.svg;isopropylamine_c3h9n.pdf;metadata/isopropylamine_c3h9n.csv;sigma/isopropylamine_c3h9n.csv;True;301;0;2.14.0;115.9;0.067;125.3;False
+Allylamine_C3H7N;Allylamine;C3H7N;C=CCN;allylamine_c3h7n.svg;allylamine_c3h7n.pdf;metadata/allylamine_c3h7n.csv;sigma/allylamine_c3h7n.csv;True;267;0;2.14.0;56.7;0.161;65.2;False
+Pyrrole_C4H5N;Pyrrole;C4H5N;C1=CNC=C1;pyrrole_c4h5n.svg;pyrrole_c4h5n.pdf;metadata/pyrrole_c4h5n.csv;sigma/pyrrole_c4h5n.csv;True;270;0;2.14.0;94.3;0.122;103.5;False
+Pyridine_C5H5N;Pyridine;C5H5N;C1=CC=NC=C1;pyridine_c5h5n.svg;pyridine_c5h5n.pdf;metadata/pyridine_c5h5n.csv;sigma/pyridine_c5h5n.csv;True;307;0;2.14.0;141.8;0.167;151.0;False
+Pyrimidine_C4H4N2;Pyrimidine;C4H4N2;C1=CN=CN=C1;pyrimidine_c4h4n2.svg;pyrimidine_c4h4n2.pdf;metadata/pyrimidine_c4h4n2.csv;sigma/pyrimidine_c4h4n2.csv;True;290;0;2.14.0;128.1;0.123;136.9;False
+Imidazole_C3H4N2;Imidazole;C3H4N2;C1=CN=CN1;imidazole_c3h4n2.svg;imidazole_c3h4n2.pdf;metadata/imidazole_c3h4n2.csv;sigma/imidazole_c3h4n2.csv;True;253;0;2.14.0;55.1;0.253;64.4;False
+Pyrazole_C3H4N2;Pyrazole;C3H4N2;C1=CNN=C1;pyrazole_c3h4n2.svg;pyrazole_c3h4n2.pdf;metadata/pyrazole_c3h4n2.csv;sigma/pyrazole_c3h4n2.csv;True;253;0;2.14.0;89.6;0.057;98.9;False
+Oxazole_C3H3NO;Oxazole;C3H3NO;C1=COC=N1;oxazole_c3h3no.svg;oxazole_c3h3no.pdf;metadata/oxazole_c3h3no.csv;sigma/oxazole_c3h3no.csv;True;239;0;2.14.0;48.7;0.157;57.5;False
+Isoxazole_C3H3NO;Isoxazole;C3H3NO;C1=CON=C1;isoxazole_c3h3no.svg;isoxazole_c3h3no.pdf;metadata/isoxazole_c3h3no.csv;sigma/isoxazole_c3h3no.csv;True;239;0;2.14.0;81.3;0.058;90.1;False
+Thiazole_C3H3NS;Thiazole;C3H3NS;C1=CSC=N1;thiazole_c3h3ns.svg;thiazole_c3h3ns.pdf;metadata/thiazole_c3h3ns.csv;sigma/thiazole_c3h3ns.csv;True;244;0;2.14.0;52.0;0.129;61.0;False
+Methyl_formate_C2H4O2;Methyl Formate;C2H4O2;COC=O;methyl_formate_c2h4o2.svg;methyl_formate_c2h4o2.pdf;metadata/methyl_formate_c2h4o2.csv;sigma/methyl_formate_c2h4o2.csv;True;222;0;2.14.0;38.1;0.08;46.6;False
+Butyronitrile_C4H7N;Butyronitrile;C4H7N;CCCC#N;butyronitrile_c4h7n.svg;butyronitrile_c4h7n.pdf;metadata/butyronitrile_c4h7n.csv;sigma/butyronitrile_c4h7n.csv;True;304;0;2.14.0;124.9;0.139;133.7;False
+Isobutyronitrile_C4H7N;Isobutyronitrile;C4H7N;CC(C)C#N;isobutyronitrile_c4h7n.svg;isobutyronitrile_c4h7n.pdf;metadata/isobutyronitrile_c4h7n.csv;sigma/isobutyronitrile_c4h7n.csv;True;304;0;2.14.0;128.4;0.076;137.5;False
+Succinonitrile_C4H4N2;Succinonitrile;C4H4N2;C(CC#N)C#N;succinonitrile_c4h4n2.svg;succinonitrile_c4h4n2.pdf;metadata/succinonitrile_c4h4n2.csv;sigma/succinonitrile_c4h4n2.csv;True;290;0;2.14.0;111.6;0.159;120.7;False
+Acrylamide_C3H5NO;Acrylamide;C3H5NO;C=CC(=O)N;acrylamide_c3h5no.svg;acrylamide_c3h5no.pdf;metadata/acrylamide_c3h5no.csv;sigma/acrylamide_c3h5no.csv;True;273;0;2.14.0;63.4;0.072;72.0;False
+Dimethylformamide_C3H7NO;Dimethylformamide;C3H7NO;CN(C)C=O;dimethylformamide_c3h7no.svg;dimethylformamide_c3h7no.pdf;metadata/dimethylformamide_c3h7no.csv;sigma/dimethylformamide_c3h7no.csv;True;307;0;2.14.0;143.9;0.206;153.6;False
+Carbon_disulfide_CS2;Carbon Disulfide;CS2;C(=S)=S;carbon_disulfide_cs2.svg;carbon_disulfide_cs2.pdf;metadata/carbon_disulfide_cs2.csv;sigma/carbon_disulfide_cs2.csv;True;127;0;2.14.0;9.4;0.036;18.3;False
+Methanesulfonyl_chloride_CH3ClO2S;Methanesulfonyl Chloride;CH3ClO2S;CS(=O)(=O)Cl;methanesulfonyl_chloride_ch3clo2s.svg;methanesulfonyl_chloride_ch3clo2s.pdf;metadata/methanesulfonyl_chloride_ch3clo2s.csv;sigma/methanesulfonyl_chloride_ch3clo2s.csv;True;258;0;2.14.0;52.2;0.155;61.2;False
+Dimethyl_sulfoxide_C2H6OS;Dimethyl Sulfoxide;C2H6OS;CS(=O)C;dimethyl_sulfoxide_c2h6os.svg;dimethyl_sulfoxide_c2h6os.pdf;metadata/dimethyl_sulfoxide_c2h6os.csv;sigma/dimethyl_sulfoxide_c2h6os.csv;True;261;0;2.14.0;97.0;0.052;106.2;False
+Diethyl_sulfide_C4H10S;Diethyl Sulfide;C4H10S;CCSCC;diethyl_sulfide_c4h10s.svg;diethyl_sulfide_c4h10s.pdf;metadata/diethyl_sulfide_c4h10s.csv;sigma/diethyl_sulfide_c4h10s.csv;True;363;0;2.14.0;194.4;0.157;203.1;False
+Thiacyclopropane_C2H4S;Thiacyclopropane;C2H4S;C1CS1;thiacyclopropane_c2h4s.svg;thiacyclopropane_c2h4s.pdf;metadata/thiacyclopropane_c2h4s.csv;sigma/thiacyclopropane_c2h4s.csv;True;187;0;2.14.0;27.4;0.045;36.0;False
+Thiophene_C4H4S;Thiophene;C4H4S;C1=CSC=C1;thiophene_c4h4s.svg;thiophene_c4h4s.pdf;metadata/thiophene_c4h4s.csv;sigma/thiophene_c4h4s.csv;True;261;0;2.14.0;53.8;0.152;62.8;False
+Tetrahydrothiophene_C4H8S;Tetrahydrothiophene;C4H8S;C1CCSC1;tetrahydrothiophene_c4h8s.svg;tetrahydrothiophene_c4h8s.pdf;metadata/tetrahydrothiophene_c4h8s.csv;sigma/tetrahydrothiophene_c4h8s.csv;True;329;0;2.14.0;168.2;0.075;177.9;False
+Trimethylphosphine_C3H9P;Trimethylphosphine;C3H9P;CP(C)C;trimethylphosphine_c3h9p.svg;trimethylphosphine_c3h9p.pdf;metadata/trimethylphosphine_c3h9p.csv;sigma/trimethylphosphine_c3h9p.csv;True;309;0;2.14.0;124.0;0.154;134.4;False
+Aluminium_monochloride_AlCl;Aluminium Monochloride;AlCl;[Al]Cl;aluminium_monochloride_alcl.svg;aluminium_monochloride_alcl.pdf;metadata/aluminium_monochloride_alcl.csv;sigma/aluminium_monochloride_alcl.csv;True;90;0;2.14.0;39.6;0.022;41.6;True
+Aluminium_monofluoride_AlF;Aluminium Monofluoride;AlF;F[Al];aluminium_monofluoride_alf.svg;aluminium_monofluoride_alf.pdf;metadata/aluminium_monofluoride_alf.csv;sigma/aluminium_monofluoride_alf.csv;True;85;0;2.14.0;33.8;0.025;35.7;True
+Diatomic_carbon_C2;Diatomic Carbon;C2;[C-]#[C+];diatomic_carbon_c2.svg;diatomic_carbon_c2.pdf;metadata/diatomic_carbon_c2.csv;sigma/diatomic_carbon_c2.csv;True;74;0;2.14.0;5.0;0.06;13.9;False
+Carbon_monoxide_CO;Carbon Monoxide;CO;[C-]#[O+];carbon_monoxide_co.svg;carbon_monoxide_co.pdf;metadata/carbon_monoxide_co.csv;sigma/carbon_monoxide_co.csv;True;77;0;2.14.0;5.0;0.03;13.9;False
+Carbon_monosulfide_CS;Carbon Monosulfide;CS;[C-]#[S+];carbon_monosulfide_cs.svg;carbon_monosulfide_cs.pdf;metadata/carbon_monosulfide_cs.csv;sigma/carbon_monosulfide_cs.csv;True;82;0;2.14.0;5.2;0.244;14.3;False
+Molecular_hydrogen_H2;Molecular Hydrogen;H2;[HH];molecular_hydrogen_h2.svg;molecular_hydrogen_h2.pdf;metadata/molecular_hydrogen_h2.csv;sigma/molecular_hydrogen_h2.csv;True;34;0;2.14.0;13.5;0.013;15.2;True
+Hydrogen_chloride_ClH;Hydrogen Chloride;ClH;Cl;hydrogen_chloride_clh.svg;hydrogen_chloride_clh.pdf;metadata/hydrogen_chloride_clh.csv;sigma/hydrogen_chloride_clh.csv;True;62;0;2.14.0;4.6;0.019;13.2;False
+Hydrogen_fluoride_FH;Hydrogen Fluoride;FH;F;hydrogen_fluoride_fh.svg;hydrogen_fluoride_fh.pdf;metadata/hydrogen_fluoride_fh.csv;sigma/hydrogen_fluoride_fh.csv;True;57;0;2.14.0;4.5;0.024;13.6;False
+Molecular_nitrogen_N2;Molecular Nitrogen;N2;N#N;molecular_nitrogen_n2.svg;molecular_nitrogen_n2.pdf;metadata/molecular_nitrogen_n2.csv;sigma/molecular_nitrogen_n2.csv;True;74;0;2.14.0;5.1;0.032;13.6;False
+Silicon_monoxide_OSi;Silicon Monoxide;OSi;O=[Si];silicon_monoxide_osi.svg;silicon_monoxide_osi.pdf;metadata/silicon_monoxide_osi.csv;sigma/silicon_monoxide_osi.csv;True;85;0;2.14.0;5.4;0.031;14.1;False
+Carbon_dioxide_CO2;Carbon Dioxide;CO2;C(=O)=O;carbon_dioxide_co2.svg;carbon_dioxide_co2.pdf;metadata/carbon_dioxide_co2.csv;sigma/carbon_dioxide_co2.csv;True;117;0;2.14.0;8.7;0.044;17.0;False
+Water_H2O;Water;H2O;O;water_h2o.svg;water_h2o.pdf;metadata/water_h2o.csv;sigma/water_h2o.csv;True;74;0;2.14.0;5.0;0.027;13.1;False
+Hydrogen_sulfide_H2S;Hydrogen Sulfide;H2S;S;hydrogen_sulfide_h2s.svg;hydrogen_sulfide_h2s.pdf;metadata/hydrogen_sulfide_h2s.csv;sigma/hydrogen_sulfide_h2s.csv;True;79;0;2.14.0;4.9;0.017;12.9;False
+Hydrogen_cyanide_CHN;Hydrogen Cyanide;CHN;C#N;hydrogen_cyanide_chn.svg;hydrogen_cyanide_chn.pdf;metadata/hydrogen_cyanide_chn.csv;sigma/hydrogen_cyanide_chn.csv;True;91;0;2.14.0;5.4;0.028;13.5;False
+Hydrogen_isocyanide_CHN;Hydrogen Isocyanide;CHN;[C-]#[NH+];hydrogen_isocyanide_chn.svg;hydrogen_isocyanide_chn.pdf;metadata/hydrogen_isocyanide_chn.csv;sigma/hydrogen_isocyanide_chn.csv;True;91;0;2.14.0;5.9;0.035;14.0;False
+Phosphaethyne_CHP;Phosphaethyne;CHP;C#P;phosphaethyne_chp.svg;phosphaethyne_chp.pdf;metadata/phosphaethyne_chp.csv;sigma/phosphaethyne_chp.csv;True;99;0;2.14.0;5.5;0.072;14.0;False
+Nitroxyl_HNO;Nitroxyl;HNO;N=O;nitroxyl_hno.svg;nitroxyl_hno.pdf;metadata/nitroxyl_hno.csv;sigma/nitroxyl_hno.csv;True;94;0;2.14.0;5.9;0.047;14.8;False
+Nitrous_oxide_N2O;Nitrous Oxide;N2O;[N-]=[N+]=O;nitrous_oxide_n2o.svg;nitrous_oxide_n2o.pdf;metadata/nitrous_oxide_n2o.csv;sigma/nitrous_oxide_n2o.csv;True;114;0;2.14.0;9.0;0.043;17.6;False
+Carbonyl_sulfide_COS;Carbonyl Sulfide;COS;C(=O)=S;carbonyl_sulfide_cos.svg;carbonyl_sulfide_cos.pdf;metadata/carbonyl_sulfide_cos.csv;sigma/carbonyl_sulfide_cos.csv;True;122;0;2.14.0;7.7;0.046;18.7;False
+Ozone_O3;Ozone;O3;[O-][O+]=O;ozone_o3.svg;ozone_o3.pdf;metadata/ozone_o3.csv;sigma/ozone_o3.csv;True;120;0;2.14.0;9.8;0.181;18.8;False
+Sulfur_dioxide_O2S;Sulfur Dioxide;O2S;O=S=O;sulfur_dioxide_o2s.svg;sulfur_dioxide_o2s.pdf;metadata/sulfur_dioxide_o2s.csv;sigma/sulfur_dioxide_o2s.csv;True;125;0;2.14.0;8.1;0.111;16.7;False
+Disilicon_carbide_CH4Si2;Disilicon Carbide;CH4Si2;C(=[SiH2])=[SiH2];disilicon_carbide_ch4si2.svg;disilicon_carbide_ch4si2.pdf;metadata/disilicon_carbide_ch4si2.csv;sigma/disilicon_carbide_ch4si2.csv;True;195;0;2.14.0;26.9;0.041;35.4;False
+Tricarbon_monoxide_C3H2O;Tricarbon Monoxide;C3H2O;C=C=C=O;tricarbon_monoxide_c3h2o.svg;tricarbon_monoxide_c3h2o.pdf;metadata/tricarbon_monoxide_c3h2o.csv;sigma/tricarbon_monoxide_c3h2o.csv;True;185;0;2.14.0;20.0;0.291;28.7;False
+Formaldehyde_CH2O;Formaldehyde;CH2O;C=O;formaldehyde_ch2o.svg;formaldehyde_ch2o.pdf;metadata/formaldehyde_ch2o.csv;sigma/formaldehyde_ch2o.csv;True;111;0;2.14.0;7.7;0.053;16.4;False
+Thioformaldehyde_CH2S;Thioformaldehyde;CH2S;C=S;thioformaldehyde_ch2s.svg;thioformaldehyde_ch2s.pdf;metadata/thioformaldehyde_ch2s.csv;sigma/thioformaldehyde_ch2s.csv;True;116;0;2.14.0;7.4;0.034;16.1;False
+Fulminic_acid_CHNO;Fulminic Acid;CHNO;C#[N+][O-];fulminic_acid_chno.svg;fulminic_acid_chno.pdf;metadata/fulminic_acid_chno.csv;sigma/fulminic_acid_chno.csv;True;131;0;2.14.0;9.3;0.151;17.5;False
+Cyanic_acid_CHNO;Cyanic Acid;CHNO;C(#N)O;cyanic_acid_chno.svg;cyanic_acid_chno.pdf;metadata/cyanic_acid_chno.csv;sigma/cyanic_acid_chno.csv;True;131;0;2.14.0;9.3;0.044;18.2;False
+Isocyanogen_C2N2;Isocyanogen;C2N2;[C-]#[N+]C#N;isocyanogen_c2n2.svg;isocyanogen_c2n2.pdf;metadata/isocyanogen_c2n2.csv;sigma/isocyanogen_c2n2.csv;True;148;0;2.14.0;9.0;0.311;16.7;False
+Hydrogen_peroxide_H2O2;Hydrogen Peroxide;H2O2;OO;hydrogen_peroxide_h2o2.svg;hydrogen_peroxide_h2o2.pdf;metadata/hydrogen_peroxide_h2o2.csv;sigma/hydrogen_peroxide_h2o2.csv;True;114;0;2.14.0;7.6;0.047;16.0;False
+Isocyanic_acid_CHNO;Isocyanic Acid;CHNO;C(=N)=O;isocyanic_acid_chno.svg;isocyanic_acid_chno.pdf;metadata/isocyanic_acid_chno.csv;sigma/isocyanic_acid_chno.csv;True;131;0;2.14.0;8.8;0.072;17.3;False
+Isothiocyanic_acid_CHNS;Isothiocyanic Acid;CHNS;C(=N)=S;isothiocyanic_acid_chns.svg;isothiocyanic_acid_chns.pdf;metadata/isothiocyanic_acid_chns.csv;sigma/isothiocyanic_acid_chns.csv;True;136;0;2.14.0;9.7;0.078;17.7;False
+Ammonia_H3N;Ammonia;H3N;N;ammonia_h3n.svg;ammonia_h3n.pdf;metadata/ammonia_h3n.csv;sigma/ammonia_h3n.csv;True;88;0;2.14.0;4.6;0.03;13.3;False
+Thiocyanic_acid_CHNS;Thiocyanic Acid;CHNS;C(#N)S;thiocyanic_acid_chns.svg;thiocyanic_acid_chns.pdf;metadata/thiocyanic_acid_chns.csv;sigma/thiocyanic_acid_chns.csv;True;136;0;2.14.0;9.4;0.048;18.0;False
+Thionylimide_HNOS;Thionylimide;HNOS;N=S=O;thionylimide_hnos.svg;thionylimide_hnos.pdf;metadata/thionylimide_hnos.csv;sigma/thionylimide_hnos.csv;True;139;0;2.14.0;9.2;0.11;18.6;False
+Nitrous_acid_HNO2;Nitrous Acid;HNO2;N(=O)O;nitrous_acid_hno2.svg;nitrous_acid_hno2.pdf;metadata/nitrous_acid_hno2.csv;sigma/nitrous_acid_hno2.csv;True;134;0;2.14.0;10.3;0.044;19.5;False
+Cyclopropenylidene_C3H4;Cyclopropenylidene;C3H4;C1C=C1;cyclopropenylidene_c3h4.svg;cyclopropenylidene_c3h4.pdf;metadata/cyclopropenylidene_c3h4.csv;sigma/cyclopropenylidene_c3h4.csv;True;179;0;2.14.0;17.8;0.047;27.6;False
+Ketene_C2H2O;Ketene;C2H2O;C=C=O;ketene_c2h2o.svg;ketene_c2h2o.pdf;metadata/ketene_c2h2o.csv;sigma/ketene_c2h2o.csv;True;148;0;2.14.0;9.8;0.064;17.8;False
+Carbodiimide_CH2N2;Carbodiimide;CH2N2;C(=N)=N;carbodiimide_ch2n2.svg;carbodiimide_ch2n2.pdf;metadata/carbodiimide_ch2n2.csv;sigma/carbodiimide_ch2n2.csv;True;145;0;2.14.0;9.1;0.043;17.4;False
+Isocyanoacetylene_C3HN;Isocyanoacetylene;C3HN;C#C[N+]#[C-];isocyanoacetylene_c3hn.svg;isocyanoacetylene_c3hn.pdf;metadata/isocyanoacetylene_c3hn.csv;sigma/isocyanoacetylene_c3hn.csv;True;165;0;2.14.0;10.0;0.12;18.1;False
+Formic_acid_CH2O2;Formic Acid;CH2O2;C(=O)O;formic_acid_ch2o2.svg;formic_acid_ch2o2.pdf;metadata/formic_acid_ch2o2.csv;sigma/formic_acid_ch2o2.csv;True;151;0;2.14.0;10.2;0.063;19.3;False
+Cyanamide_CH2N2;Cyanamide;CH2N2;C(#N)N;cyanamide_ch2n2.svg;cyanamide_ch2n2.pdf;metadata/cyanamide_ch2n2.csv;sigma/cyanamide_ch2n2.csv;True;145;0;2.14.0;9.8;0.075;18.3;False
+Hydroxylamine_H3NO;Hydroxylamine;H3NO;NO;hydroxylamine_h3no.svg;hydroxylamine_h3no.pdf;metadata/hydroxylamine_h3no.csv;sigma/hydroxylamine_h3no.csv;True;128;0;2.14.0;8.7;0.036;17.4;False
+Cyanoformaldehyde_C2HNO;Cyanoformaldehyde;C2HNO;C(=O)C#N;cyanoformaldehyde_c2hno.svg;cyanoformaldehyde_c2hno.pdf;metadata/cyanoformaldehyde_c2hno.csv;sigma/cyanoformaldehyde_c2hno.csv;True;168;0;2.14.0;12.4;0.251;21.3;False
+dithioformic_acid_CH2S2;Dithioformic Acid;CH2S2;C(=S)S;dithioformic_acid_ch2s2.svg;dithioformic_acid_ch2s2.pdf;metadata/dithioformic_acid_ch2s2.csv;sigma/dithioformic_acid_ch2s2.csv;True;161;0;2.14.0;11.6;0.098;21.0;False
+Cyclopropenone_C3H2O;Cyclopropenone;C3H2O;C1=CC1=O;cyclopropenone_c3h2o.svg;cyclopropenone_c3h2o.pdf;metadata/cyclopropenone_c3h2o.csv;sigma/cyclopropenone_c3h2o.csv;True;185;0;2.14.0;18.0;0.101;27.1;False
+Acetonitrile_C2H3N;Acetonitrile;C2H3N;CC#N;acetonitrile_c2h3n.svg;acetonitrile_c2h3n.pdf;metadata/acetonitrile_c2h3n.csv;sigma/acetonitrile_c2h3n.csv;True;162;0;2.14.0;10.3;0.089;18.3;False
+Methyl_isocyanide_C2H3N;Methyl Isocyanide;C2H3N;C[N+]#[C-];methyl_isocyanide_c2h3n.svg;methyl_isocyanide_c2h3n.pdf;metadata/methyl_isocyanide_c2h3n.csv;sigma/methyl_isocyanide_c2h3n.csv;True;162;0;2.14.0;9.8;0.046;17.9;False
+Methanol_CH4O;Methanol;CH4O;CO;methanol_ch4o.svg;methanol_ch4o.pdf;metadata/methanol_ch4o.csv;sigma/methanol_ch4o.csv;True;145;0;2.14.0;8.7;0.267;17.5;False
+Methanethiol_CH4S;Methanethiol;CH4S;CS;methanethiol_ch4s.svg;methanethiol_ch4s.pdf;metadata/methanethiol_ch4s.csv;sigma/methanethiol_ch4s.csv;True;150;0;2.14.0;9.0;0.088;17.5;False
+Formamide_CH3NO;Formamide;CH3NO;C(=O)N;formamide_ch3no.svg;formamide_ch3no.pdf;metadata/formamide_ch3no.csv;sigma/formamide_ch3no.csv;True;165;0;2.14.0;10.8;0.046;19.9;False
+Carbonic_acid_CH2O3;Carbonic Acid;CH2O3;C(=O)(O)O;carbonic_acid_ch2o3.svg;carbonic_acid_ch2o3.pdf;metadata/carbonic_acid_ch2o3.csv;sigma/carbonic_acid_ch2o3.csv;True;191;0;2.14.0;19.3;0.112;27.4;False
+Propynal_C3H2O;Propynal;C3H2O;C#CC=O;propynal_c3h2o.svg;propynal_c3h2o.pdf;metadata/propynal_c3h2o.csv;sigma/propynal_c3h2o.csv;True;185;0;2.14.0;23.1;0.064;31.7;False
+Ketenimine_C2H3N;Ketenimine;C2H3N;C=C=N;ketenimine_c2h3n.svg;ketenimine_c2h3n.pdf;metadata/ketenimine_c2h3n.csv;sigma/ketenimine_c2h3n.csv;True;162;0;2.14.0;12.1;0.303;20.9;False
+Ethylene_oxide_C2H4O;Ethylene Oxide;C2H4O;C1CO1;ethylene_oxide_c2h4o.svg;ethylene_oxide_c2h4o.pdf;metadata/ethylene_oxide_c2h4o.csv;sigma/ethylene_oxide_c2h4o.csv;True;182;0;2.14.0;17.6;0.076;26.6;False
+Methylamine_CH5N;Methylamine;CH5N;CN;methylamine_ch5n.svg;methylamine_ch5n.pdf;metadata/methylamine_ch5n.csv;sigma/methylamine_ch5n.csv;True;159;0;2.14.0;10.1;0.056;18.9;False
+Vinyl_alcohol_C2H4O;Vinyl Alcohol;C2H4O;C=CO;vinyl_alcohol_c2h4o.svg;vinyl_alcohol_c2h4o.pdf;metadata/vinyl_alcohol_c2h4o.csv;sigma/vinyl_alcohol_c2h4o.csv;True;182;0;2.14.0;18.9;0.136;27.5;False
+Cyanodiacetylene_C5HN;Cyanodiacetylene;C5HN;C#CC#CC#N;cyanodiacetylene_c5hn.svg;cyanodiacetylene_c5hn.pdf;metadata/cyanodiacetylene_c5hn.csv;sigma/cyanodiacetylene_c5hn.csv;True;239;0;2.14.0;31.2;0.105;39.7;False
+Acetaldehyde_C2H4O;Acetaldehyde;C2H4O;CC=O;acetaldehyde_c2h4o.svg;acetaldehyde_c2h4o.pdf;metadata/acetaldehyde_c2h4o.csv;sigma/acetaldehyde_c2h4o.csv;True;182;0;2.14.0;18.3;0.067;26.7;False
+Thioacetaldehyde_C2H4S;Thioacetaldehyde;C2H4S;CC=S;thioacetaldehyde_c2h4s.svg;thioacetaldehyde_c2h4s.pdf;metadata/thioacetaldehyde_c2h4s.csv;sigma/thioacetaldehyde_c2h4s.csv;True;187;0;2.14.0;20.4;0.086;29.1;False
+Methyl_isocyanate_C2H3NO;Methyl Isocyanate;C2H3NO;CN=C=O;methyl_isocyanate_c2h3no.svg;methyl_isocyanate_c2h3no.pdf;metadata/methyl_isocyanate_c2h3no.csv;sigma/methyl_isocyanate_c2h3no.csv;True;202;0;2.14.0;22.1;0.296;31.2;False
+Glycolonitrile_C2H3NO;Glycolonitrile;C2H3NO;C(C#N)O;glycolonitrile_c2h3no.svg;glycolonitrile_c2h3no.pdf;metadata/glycolonitrile_c2h3no.csv;sigma/glycolonitrile_c2h3no.csv;True;202;0;2.14.0;21.8;0.066;31.6;False
+Methylcyanoacetylene_C4H3N;Methylcyanoacetylene;C4H3N;CC#CC#N;methylcyanoacetylene_c4h3n.svg;methylcyanoacetylene_c4h3n.pdf;metadata/methylcyanoacetylene_c4h3n.csv;sigma/methylcyanoacetylene_c4h3n.csv;True;236;0;2.14.0;30.5;0.263;39.1;False
+Propargyl_cyanide_C4H3N;Propargyl Cyanide;C4H3N;C#CCC#N;propargyl_cyanide_c4h3n.svg;propargyl_cyanide_c4h3n.pdf;metadata/propargyl_cyanide_c4h3n.csv;sigma/propargyl_cyanide_c4h3n.csv;True;236;0;2.14.0;34.0;0.126;43.1;False
+Glycolaldehyde_C2H4O2;Glycolaldehyde;C2H4O2;C(C=O)O;glycolaldehyde_c2h4o2.svg;glycolaldehyde_c2h4o2.pdf;metadata/glycolaldehyde_c2h4o2.csv;sigma/glycolaldehyde_c2h4o2.csv;True;222;0;2.14.0;27.8;0.221;38.3;False
+1_2-ethenediol_C2H4O2;1,2-Ethenediol;C2H4O2;C(=C/O)\O;1_2-ethenediol_c2h4o2.svg;1_2-ethenediol_c2h4o2.pdf;metadata/1_2-ethenediol_c2h4o2.csv;sigma/1_2-ethenediol_c2h4o2.csv;True;222;0;2.14.0;28.7;0.065;38.2;False
+Acetic_acid_C2H4O2;Acetic Acid;C2H4O2;CC(=O)O;acetic_acid_c2h4o2.svg;acetic_acid_c2h4o2.pdf;metadata/acetic_acid_c2h4o2.csv;sigma/acetic_acid_c2h4o2.csv;True;222;0;2.14.0;28.2;0.114;37.3;False
+Propenal_C3H4O;Propenal;C3H4O;C=CC=O;propenal_c3h4o.svg;propenal_c3h4o.pdf;metadata/propenal_c3h4o.csv;sigma/propenal_c3h4o.csv;True;219;0;2.14.0;28.3;0.087;37.2;False
+Cyanoallene_C4H3N;Cyanoallene;C4H3N;C=C=CC#N;cyanoallene_c4h3n.svg;cyanoallene_c4h3n.pdf;metadata/cyanoallene_c4h3n.csv;sigma/cyanoallene_c4h3n.csv;True;236;0;2.14.0;35.7;0.11;44.3;False
+Ethanimine_C2H5N;Ethanimine;C2H5N;CC=N;ethanimine_c2h5n.svg;ethanimine_c2h5n.pdf;metadata/ethanimine_c2h5n.csv;sigma/ethanimine_c2h5n.csv;True;196;0;2.14.0;20.5;0.094;29.7;False
+Vinylamine_C2H5N;Vinylamine;C2H5N;C=CN;vinylamine_c2h5n.svg;vinylamine_c2h5n.pdf;metadata/vinylamine_c2h5n.csv;sigma/vinylamine_c2h5n.csv;True;196;0;2.14.0;20.2;0.064;29.3;False
+Aminoacetonitrile_C2H4N2;Aminoacetonitrile;C2H4N2;C(C#N)N;aminoacetonitrile_c2h4n2.svg;aminoacetonitrile_c2h4n2.pdf;metadata/aminoacetonitrile_c2h4n2.csv;sigma/aminoacetonitrile_c2h4n2.csv;True;216;0;2.14.0;28.7;0.139;37.5;False
+Urea_CH4N2O;Urea;CH4N2O;C(=O)(N)N;urea_ch4n2o.svg;urea_ch4n2o.pdf;metadata/urea_ch4n2o.csv;sigma/urea_ch4n2o.csv;True;219;0;2.14.0;27.8;0.057;37.1;False
+Methyldiacetylene_C5H4;Methyldiacetylene;C5H4;CC#CC#C;methyldiacetylene_c5h4.svg;methyldiacetylene_c5h4.pdf;metadata/methyldiacetylene_c5h4.csv;sigma/methyldiacetylene_c5h4.csv;True;253;0;2.14.0;37.2;0.232;46.1;False
+Dimethyl_ether_C2H6O;Dimethyl Ether;C2H6O;COC;dimethyl_ether_c2h6o.svg;dimethyl_ether_c2h6o.pdf;metadata/dimethyl_ether_c2h6o.csv;sigma/dimethyl_ether_c2h6o.csv;True;216;0;2.14.0;27.3;0.101;37.0;False
+Acetamide_C2H5NO;Acetamide;C2H5NO;CC(=O)N;acetamide_c2h5no.svg;acetamide_c2h5no.pdf;metadata/acetamide_c2h5no.csv;sigma/acetamide_c2h5no.csv;True;236;0;2.14.0;33.1;0.115;42.7;False
+Ethanol_C2H6O;Ethanol;C2H6O;CCO;ethanol_c2h6o.svg;ethanol_c2h6o.pdf;metadata/ethanol_c2h6o.csv;sigma/ethanol_c2h6o.csv;True;216;0;2.14.0;25.9;0.048;35.3;False
+Ethyl_mercaptan_C2H6S;Ethyl Mercaptan;C2H6S;CCS;ethyl_mercaptan_c2h6s.svg;ethyl_mercaptan_c2h6s.pdf;metadata/ethyl_mercaptan_c2h6s.csv;sigma/ethyl_mercaptan_c2h6s.csv;True;221;0;2.14.0;27.9;0.297;36.9;False
+Dimethyl_sulfide_C2H6S;Dimethyl Sulfide;C2H6S;CSC;dimethyl_sulfide_c2h6s.svg;dimethyl_sulfide_c2h6s.pdf;metadata/dimethyl_sulfide_c2h6s.csv;sigma/dimethyl_sulfide_c2h6s.csv;True;221;0;2.14.0;25.6;0.048;34.8;False
+N-methylformamide_C2H5NO;N-Methylformamide;C2H5NO;CNC=O;n-methylformamide_c2h5no.svg;n-methylformamide_c2h5no.pdf;metadata/n-methylformamide_c2h5no.csv;sigma/n-methylformamide_c2h5no.csv;True;236;0;2.14.0;30.8;0.099;39.3;False
+Acetone_C3H6O;Acetone;C3H6O;CC(=O)C;acetone_c3h6o.svg;acetone_c3h6o.pdf;metadata/acetone_c3h6o.csv;sigma/acetone_c3h6o.csv;True;253;0;2.14.0;63.4;0.119;72.8;False
+Ethylene_glycol_C2H6O2;Ethylene Glycol;C2H6O2;C(CO)O;ethylene_glycol_c2h6o2.svg;ethylene_glycol_c2h6o2.pdf;metadata/ethylene_glycol_c2h6o2.csv;sigma/ethylene_glycol_c2h6o2.csv;True;256;0;2.14.0;41.4;0.064;51.5;False
+Propanal_C3H6O;Propanal;C3H6O;CCC=O;propanal_c3h6o.svg;propanal_c3h6o.pdf;metadata/propanal_c3h6o.csv;sigma/propanal_c3h6o.csv;True;253;0;2.14.0;67.3;0.102;76.4;False
+Methoxymethanol_C2H6O2;Methoxymethanol;C2H6O2;COCO;methoxymethanol_c2h6o2.svg;methoxymethanol_c2h6o2.pdf;metadata/methoxymethanol_c2h6o2.csv;sigma/methoxymethanol_c2h6o2.csv;True;256;0;2.14.0;37.6;0.063;47.1;False
+Propylene_oxide_C3H6O;Propylene Oxide;C3H6O;CC1CO1;propylene_oxide_c3h6o.svg;propylene_oxide_c3h6o.pdf;metadata/propylene_oxide_c3h6o.csv;sigma/propylene_oxide_c3h6o.csv;True;253;0;2.14.0;61.7;0.103;70.5;False
+Ethanolamine_C2H7NO;Ethanolamine;C2H7NO;C(CO)N;ethanolamine_c2h7no.svg;ethanolamine_c2h7no.pdf;metadata/ethanolamine_c2h7no.csv;sigma/ethanolamine_c2h7no.csv;True;270;0;2.14.0;42.6;0.073;51.6;False
+Ethyl_formate_C3H6O2;Ethyl Formate;C3H6O2;CCOC=O;ethyl_formate_c3h6o2.svg;ethyl_formate_c3h6o2.pdf;metadata/ethyl_formate_c3h6o2.csv;sigma/ethyl_formate_c3h6o2.csv;True;293;0;2.14.0;90.5;0.225;101.1;False
+Methyl_acetate_C3H6O2;Methyl Acetate;C3H6O2;CC(=O)OC;methyl_acetate_c3h6o2.svg;methyl_acetate_c3h6o2.pdf;metadata/methyl_acetate_c3h6o2.csv;sigma/methyl_acetate_c3h6o2.csv;True;293;0;2.14.0;93.4;0.176;102.8;False
+n-Propyl_cyanide_C4H7N;N-Propyl Cyanide;C4H7N;CCCC#N;n-propyl_cyanide_c4h7n.svg;n-propyl_cyanide_c4h7n.pdf;metadata/n-propyl_cyanide_c4h7n.csv;sigma/n-propyl_cyanide_c4h7n.csv;True;304;0;2.14.0;102.4;0.165;111.1;False
+2-methoxyethanol_C3H8O2;2-Methoxyethanol;C3H8O2;COCCO;2-methoxyethanol_c3h8o2.svg;2-methoxyethanol_c3h8o2.pdf;metadata/2-methoxyethanol_c3h8o2.csv;sigma/2-methoxyethanol_c3h8o2.csv;True;327;0;2.14.0;111.3;0.206;120.2;False
+Benzonitrile_C7H5N;Benzonitrile;C7H5N;C1=CC=C(C=C1)C#N;benzonitrile_c7h5n.svg;benzonitrile_c7h5n.pdf;metadata/benzonitrile_c7h5n.csv;sigma/benzonitrile_c7h5n.csv;True;381;0;2.14.0;228.7;0.127;237.9;False
+Indene_C9H8;Indene;C9H8;C1C=CC2=CC=CC=C21;indene_c9h8.svg;indene_c9h8.pdf;metadata/indene_c9h8.csv;sigma/indene_c9h8.csv;True;469;0;2.14.0;445.7;0.324;455.5;False
+1-cyanonaphthalene_C11H7N;1-Cyanonaphthalene;C11H7N;C1=CC=C2C(=C1)C=CC=C2C#N;1-cyanonaphthalene_c11h7n.svg;1-cyanonaphthalene_c11h7n.pdf;metadata/1-cyanonaphthalene_c11h7n.csv;sigma/1-cyanonaphthalene_c11h7n.csv;True;563;0;2.14.0;890.3;0.547;901.8;False
+2-cyanonaphthalene_C11H7N;2-Cyanonaphthalene;C11H7N;C1=CC=C2C=C(C=CC2=C1)C#N;2-cyanonaphthalene_c11h7n.svg;2-cyanonaphthalene_c11h7n.pdf;metadata/2-cyanonaphthalene_c11h7n.csv;sigma/2-cyanonaphthalene_c11h7n.csv;True;563;0;2.14.0;879.0;0.457;890.0;False
+1-cyanopyrene_C17H9N;1-Cyanopyrene;C17H9N;C1=CC2=C3C(=C1)C=CC4=C(C=CC(=C43)C=C2)C#N;1-cyanopyrene_c17h9n.svg;1-cyanopyrene_c17h9n.pdf;metadata/1-cyanopyrene_c17h9n.csv;sigma/1-cyanopyrene_c17h9n.csv;True;819;0;2.14.0;3149.2;0.518;3159.3;False
+2-cyanopyrene_C17H9N;2-Cyanopyrene;C17H9N;C1=CC2=C3C(=C1)C=CC4=C3C(=CC(=C4)C#N)C=C2;2-cyanopyrene_c17h9n.svg;2-cyanopyrene_c17h9n.pdf;metadata/2-cyanopyrene_c17h9n.csv;sigma/2-cyanopyrene_c17h9n.csv;True;819;0;2.14.0;3066.8;0.544;3077.5;False
+4-cyanopyrene_C17H9N;4-Cyanopyrene;C17H9N;C1=CC2=C3C(=C1)C=C(C4=CC=CC(=C43)C=C2)C#N;4-cyanopyrene_c17h9n.svg;4-cyanopyrene_c17h9n.pdf;metadata/4-cyanopyrene_c17h9n.csv;sigma/4-cyanopyrene_c17h9n.csv;True;819;0;2.14.0;3134.3;0.442;3145.2;False
+Silyl_cyanide_CH3NSi;Silyl Cyanide;CH3NSi;C(#N)[SiH3];silyl_cyanide_ch3nsi.svg;silyl_cyanide_ch3nsi.pdf;metadata/silyl_cyanide_ch3nsi.csv;sigma/silyl_cyanide_ch3nsi.csv;True;170;0;2.14.0;10.0;0.037;18.5;False
+Glycine_C2H5NO2;Glycine;C2H5NO2;C(C(=O)O)N;glycine_c2h5no2.svg;glycine_c2h5no2.pdf;metadata/glycine_c2h5no2.csv;sigma/glycine_c2h5no2.csv;True;276;0;2.14.0;79.0;0.254;88.5;False
+Ethylamine_C2H7N;Ethylamine;C2H7N;CCN;ethylamine_c2h7n.svg;ethylamine_c2h7n.pdf;metadata/ethylamine_c2h7n.csv;sigma/ethylamine_c2h7n.csv;True;230;0;2.14.0;28.5;0.069;37.8;False
+Dihydroxyacetone_C3H6O3;Dihydroxyacetone;C3H6O3;C(C(=O)CO)O;dihydroxyacetone_c3h6o3.svg;dihydroxyacetone_c3h6o3.pdf;metadata/dihydroxyacetone_c3h6o3.csv;sigma/dihydroxyacetone_c3h6o3.csv;True;333;0;2.14.0;130.7;0.246;140.2;False
+Ethyl_methyl_ether_C3H8O;Ethyl Methyl Ether;C3H8O;CCOC;ethyl_methyl_ether_c3h8o.svg;ethyl_methyl_ether_c3h8o.pdf;metadata/ethyl_methyl_ether_c3h8o.csv;sigma/ethyl_methyl_ether_c3h8o.csv;True;287;0;2.14.0;80.0;0.074;89.8;False
+Anthracene_C14H10;Anthracene;C14H10;C1=CC=C2C=C3C=CC=CC3=CC2=C1;anthracene_c14h10.svg;anthracene_c14h10.pdf;metadata/anthracene_c14h10.csv;sigma/anthracene_c14h10.csv;True;688;0;2.14.0;1345.9;0.502;1355.4;False
+Pyrene_C16H10;Pyrene;C16H10;C1=CC2=C3C(=C1)C=CC4=CC=CC(=C43)C=C2;pyrene_c16h10.svg;pyrene_c16h10.pdf;metadata/pyrene_c16h10.csv;sigma/pyrene_c16h10.csv;True;762;0;2.14.0;1999.5;0.546;2011.0;False
+Tryptophan_C11H12N2O2;Tryptophan;C11H12N2O2;C1=CC=C2C(=C1)C(=CN2)C[C@@H](C(=O)O)N;tryptophan_c11h12n2o2.svg;tryptophan_c11h12n2o2.pdf;metadata/tryptophan_c11h12n2o2.csv;sigma/tryptophan_c11h12n2o2.csv;True;765;0;2.14.0;2160.9;0.406;2171.6;False
+Thiofulminic_acid_CHNS;Thiofulminic Acid;CHNS;C#[N+][S-];thiofulminic_acid_chns.svg;thiofulminic_acid_chns.pdf;metadata/thiofulminic_acid_chns.csv;sigma/thiofulminic_acid_chns.csv;True;136;0;2.14.0;9.0;0.145;17.7;False
+Hydrogen_disulfide_H2S2;Hydrogen Disulfide;H2S2;SS;hydrogen_disulfide_h2s2.svg;hydrogen_disulfide_h2s2.pdf;metadata/hydrogen_disulfide_h2s2.csv;sigma/hydrogen_disulfide_h2s2.csv;True;124;0;2.14.0;8.0;0.03;17.1;False
+Sulfur_trioxide_O3S;Sulfur Trioxide;O3S;O=S(=O)=O;sulfur_trioxide_o3s.svg;sulfur_trioxide_o3s.pdf;metadata/sulfur_trioxide_o3s.csv;sigma/sulfur_trioxide_o3s.csv;True;165;0;2.14.0;10.0;0.307;19.5;False
+Methylenephosphine_CH3P;Methylenephosphine;CH3P;C=P;methylenephosphine_ch3p.svg;methylenephosphine_ch3p.pdf;metadata/methylenephosphine_ch3p.csv;sigma/methylenephosphine_ch3p.csv;True;133;0;2.14.0;8.2;0.063;17.2;False
+Thioketene_C2H2S;Thioketene;C2H2S;C=C=S;thioketene_c2h2s.svg;thioketene_c2h2s.pdf;metadata/thioketene_c2h2s.csv;sigma/thioketene_c2h2s.csv;True;153;0;2.14.0;10.5;0.04;19.5;False
+Propadienone_C3H2O;Propadienone;C3H2O;C=C=C=O;propadienone_c3h2o.svg;propadienone_c3h2o.pdf;metadata/propadienone_c3h2o.csv;sigma/propadienone_c3h2o.csv;True;185;0;2.14.0;19.1;0.155;26.9;False
+Glyoxal_C2H2O2;Glyoxal;C2H2O2;C(=O)C=O;glyoxal_c2h2o2.svg;glyoxal_c2h2o2.pdf;metadata/glyoxal_c2h2o2.csv;sigma/glyoxal_c2h2o2.csv;True;188;0;2.14.0;19.2;0.085;28.5;False
+Hydrazine_H4N2;Hydrazine;H4N2;NN;hydrazine_h4n2.svg;hydrazine_h4n2.pdf;metadata/hydrazine_h4n2.csv;sigma/hydrazine_h4n2.csv;True;142;0;2.14.0;8.6;0.079;17.8;False
+Dicyanoacetylene_C4N2;Dicyanoacetylene;C4N2;C(#CC#N)C#N;dicyanoacetylene_c4n2.svg;dicyanoacetylene_c4n2.pdf;metadata/dicyanoacetylene_c4n2.csv;sigma/dicyanoacetylene_c4n2.csv;True;222;0;2.14.0;27.4;0.199;36.2;False
+Thioformamide_CH3NS;Thioformamide;CH3NS;C(=S)N;thioformamide_ch3ns.svg;thioformamide_ch3ns.pdf;metadata/thioformamide_ch3ns.csv;sigma/thioformamide_ch3ns.csv;True;170;0;2.14.0;12.1;0.043;21.7;False
+Pyruvonitrile_C3H3NO;Pyruvonitrile;C3H3NO;CC(=O)C#N;pyruvonitrile_c3h3no.svg;pyruvonitrile_c3h3no.pdf;metadata/pyruvonitrile_c3h3no.csv;sigma/pyruvonitrile_c3h3no.csv;True;239;0;2.14.0;37.4;0.331;46.2;False
+Triacetylene_C6H2;Triacetylene;C6H2;C#CC#CC#C;triacetylene_c6h2.svg;triacetylene_c6h2.pdf;metadata/triacetylene_c6h2.csv;sigma/triacetylene_c6h2.csv;True;256;0;2.14.0;58.0;0.077;66.5;False
+Dicyanodiacetylene_C6N2;Dicyanodiacetylene;C6N2;C(#CC#N)C#CC#N;dicyanodiacetylene_c6n2.svg;dicyanodiacetylene_c6n2.pdf;metadata/dicyanodiacetylene_c6n2.csv;sigma/dicyanodiacetylene_c6n2.csv;True;296;0;2.14.0;78.9;0.253;87.6;False
+Pentatetraene_C5H4;Pentatetraene;C5H4;C=C=C=C=C;pentatetraene_c5h4.svg;pentatetraene_c5h4.pdf;metadata/pentatetraene_c5h4.csv;sigma/pentatetraene_c5h4.csv;True;253;0;2.14.0;46.3;0.126;55.5;False
+Allyl_cyanide_C4H5N;Allyl Cyanide;C4H5N;C=CCC#N;allyl_cyanide_c4h5n.svg;allyl_cyanide_c4h5n.pdf;metadata/allyl_cyanide_c4h5n.csv;sigma/allyl_cyanide_c4h5n.csv;True;270;0;2.14.0;84.4;0.138;94.6;False
+Malononitrile_C3H2N2;Malononitrile;C3H2N2;C(C#N)C#N;malononitrile_c3h2n2.svg;malononitrile_c3h2n2.pdf;metadata/malononitrile_c3h2n2.csv;sigma/malononitrile_c3h2n2.csv;True;219;0;2.14.0;29.2;0.176;38.9;False
+2-Diazopropanedinitrile_C3N4;2-Diazopropanedinitrile;C3N4;C(#N)C(=[N+]=[N-])C#N;2-diazopropanedinitrile_c3n4.svg;2-diazopropanedinitrile_c3n4.pdf;metadata/2-diazopropanedinitrile_c3n4.csv;sigma/2-diazopropanedinitrile_c3n4.csv;True;259;0;2.14.0;90.2;0.122;100.1;False
+1_1_2_3_3-Pentacyanoguanidine_C6N8;1,1,2,3,3-Pentacyanoguanidine;C6N8;C(#N)N=C(N(C#N)C#N)N(C#N)C#N;1_1_2_3_3-pentacyanoguanidine_c6n8.svg;1_1_2_3_3-pentacyanoguanidine_c6n8.pdf;metadata/1_1_2_3_3-pentacyanoguanidine_c6n8.csv;sigma/1_1_2_3_3-pentacyanoguanidine_c6n8.csv;True;518;0;2.14.0;698.5;0.263;709.0;False
+2_4_6-Triazido-1_3_5-triazine_C3N12;2,4,6-Triazido-1,3,5-Triazine;C3N12;C1(=NC(=NC(=N1)N=[N+]=[N-])N=[N+]=[N-])N=[N+]=[N-];2_4_6-triazido-1_3_5-triazine_c3n12.svg;2_4_6-triazido-1_3_5-triazine_c3n12.pdf;metadata/2_4_6-triazido-1_3_5-triazine_c3n12.csv;sigma/2_4_6-triazido-1_3_5-triazine_c3n12.csv;True;555;0;2.14.0;783.4;0.29;793.0;False
+1_3_5-Triazine_C3H3N3;1,3,5-Triazine;C3H3N3;C1=NC=NC=N1;1_3_5-triazine_c3h3n3.svg;1_3_5-triazine_c3h3n3.pdf;metadata/1_3_5-triazine_c3h3n3.csv;sigma/1_3_5-triazine_c3h3n3.csv;True;273;0;2.14.0;47.9;0.174;58.0;False
+1_3_5-Triazine-2_4_6-tricarbonitrile_C6N6;1,3,5-Triazine-2,4,6-Tricarbonitrile;C6N6;C(#N)C1=NC(=NC(=N1)C#N)C#N;1_3_5-triazine-2_4_6-tricarbonitrile_c6n6.svg;1_3_5-triazine-2_4_6-tricarbonitrile_c6n6.pdf;metadata/1_3_5-triazine-2_4_6-tricarbonitrile_c6n6.csv;sigma/1_3_5-triazine-2_4_6-tricarbonitrile_c6n6.csv;True;444;0;2.14.0;390.0;1.064;405.3;False
+Hydrogen_selenide_H2Se;Hydrogen Selenide;H2Se;[SeH2];hydrogen_selenide_h2se.svg;hydrogen_selenide_h2se.pdf;metadata/hydrogen_selenide_h2se.csv;sigma/hydrogen_selenide_h2se.csv;True;79;0;2.14.0;30.8;0.02;32.6;True
