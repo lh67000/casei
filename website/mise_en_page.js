@@ -95,7 +95,7 @@ async function selectMolecule(key, li) {
 
   // Nettoyage de la clé pour correspondre exactement aux noms de fichiers minuscules
 // Met uniquement la première lettre en minuscule et laisse le reste intact
-const cleanKey = key.charAt(0).toLowerCase() + key.slice(1);
+const cleanKey = key.toLowerCase();
 const f = encodeURIComponent(cleanKey);
 
   const m = meta.find(x => x.name_formula === key);
